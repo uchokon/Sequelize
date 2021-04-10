@@ -1,8 +1,9 @@
 html {
-    background-color:hsl(171, 100%, 96%);
+    background-color: #222;
 }
 
 h1 {
+    color: white;
     margin-top: 20px;
     text-align: center;
 }
