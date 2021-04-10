@@ -2,7 +2,7 @@
 async function diningTable() {
   const diningHalls = await fetch('/api/dining');
   const dHjson = await diningHalls.json();
-  const resTable = document.querySelector('.tableConten');
+  const resTable = document.querySelector('.tableContent');
   console.log(resTable);
   console.log(dHjson);
 
