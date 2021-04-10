@@ -1,0 +1,17 @@
+html {
+    background-color:hsl(171, 100%, 96%);
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    margin: 30px auto;
+    padding: 30px 20px;
+}
+
+.table {
+    margin:auto;
+}
